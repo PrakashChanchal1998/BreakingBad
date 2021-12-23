@@ -1,0 +1,14 @@
+com/breakingbad/MainActivity.java
+ com.breakingbad.MainActivity
+com/breakingbad/ReactNativeFlipper.java
+ com.breakingbad.ReactNativeFlipper
+ com.breakingbad.ReactNativeFlipper$1
+ com.breakingbad.ReactNativeFlipper$2
+ com.breakingbad.ReactNativeFlipper$2$1
+com/breakingbad/MainApplication.java
+ com.breakingbad.MainApplication
+ com.breakingbad.MainApplication$1
+com/breakingbad/BuildConfig.java
+ com.breakingbad.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
